@@ -19,7 +19,7 @@ I help customers turn products into measurable outcomes—and turn successful pr
 - **Scalable Customer Success:** Playbooks, segmentation, health signals, and operating rhythms that make strong practice repeatable.
 - **Technical fluency:** Working confidently with products, data, APIs, AI tools, and technical stakeholders to connect customer context with practical solutions.
 
-## Featured work
+## Featured projects
 
 ### [CSM Skills Framework](https://github.com/karthiknambiar/csm-skills-framework)
 
@@ -28,6 +28,12 @@ A practical, open collection of reusable workflows that helps CSMs and TAMs prep
 The framework is being built around real Customer Success work: understanding context, finding useful signals, preparing customer communication, and converting good judgment into repeatable practice.
 
 [Explore the framework →](https://github.com/karthiknambiar/csm-skills-framework)
+
+### [SaaS Failure Lab](https://github.com/karthiknambiar/saas-failure-lab)
+
+A free, privacy-first troubleshooting simulator for Customer Success, Support, and engineering-adjacent teams. It uses 12 fictional SaaS incidents to build evidence-driven investigation habits across APIs, identity, integrations, data, browsers, and technical fundamentals.
+
+[Try the simulator →](https://karthiknambiar.github.io/saas-failure-lab/) · [View the repository](https://github.com/karthiknambiar/saas-failure-lab)
 
 ## Technical practice
 
